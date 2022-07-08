@@ -2,43 +2,43 @@
     "tasks": [
         {
           "id": 1,
-          "title": "Ver One Piece",
+          "title": "Despertar",
           "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.",
           "lane": 1
         },
         {
           "id": 2,
-          "title": "Publicar sitio web",
+          "title": "Ir a la escuela",
           "body": "hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.",
           "lane": 2
         },
         {
           "id": 3,
-          "title": "Programar Snake en Unreal",
+          "title": "Comer en la escuela",
           "body": "Suspendisse ac lorem a neque tempus luctus non aliquam sapien. Cras ut lacus bibendum, placerat nibh eu, tempus neque.",
           "lane": 3
         },
         {
           "id": 4,
-          "title": "Programar pong con Unity",
+          "title": "Regresar al depa",
           "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.",
           "lane": 3
         },
         {
           "id": 5,
-          "title": "Programar Timberman con SFML",
+          "title": "Ir al gym",
           "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
           "lane": 3
         },
         {
           "id": 6,
-          "title": "Planear un fiesta",
+          "title": "Cenar en el depa",
           "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.",
           "lane": 4
         },
         {
           "id": 7,
-          "title": "Planear vacaciones",
+          "title": "Dormir",
           "body": " Curabitur nec sem lorem. Donec venenatis, arcu vitae malesuada consequat, dolor ante placerat mi, in fermentum diam ipsum id libero.",
           "lane": 4
         }
