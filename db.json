@@ -4,37 +4,37 @@
           "id": 1,
           "title": "Monday",
           "url": "https://www.muscleandfitness.com/routine/workouts/chest-exercises/classic-physique-star-chris-bumsteads-season-chest-training/",
-          "description": "TRICEP AND CHEST"
+          "description": "TRICEP AND CHEST",
         },
         {
           "id": 2,
           "title": "Tuesday",
           "url": "https://www.muscleandfitness.com/routine/workouts/back-exercises/classic-physique-star-chris-bumsteads-season-back-training/",
-          "description": "BACK AND BICEP"
+          "description": "BACK AND BICEP",
         },
         {
           "id": 3,
           "title": "Wednesday",
           "url": "https://www.muscleandfitness.com/routine/workouts/shoulder-exercises/classic-physique-star-chris-bumsteads-season-shoulder-and-triceps/",
-          "description": "LEGS AND SHOULDER"
+          "description": "LEGS AND SHOULDER",
         },
         {
           "id": 4,
           "title": "Thursday",
           "url": "https://www.muscleandfitness.com/routine/workouts/chest-exercises/classic-physique-star-chris-bumsteads-season-chest-training/",
-          "description": "TRICEP AND CHEST"
+          "description": "TRICEP AND CHEST",
         },
         {
           "id": 5,
           "title": "Friday",
           "url": "https://www.muscleandfitness.com/routine/workouts/back-exercises/classic-physique-star-chris-bumsteads-season-back-training/",
-          "description": "BACK AND BICEP"
+          "description": "BACK AND BICEP",
         },
         {
           "id": 6,
           "title": "Saturday",
           "url": "https://www.muscleandfitness.com/routine/workouts/shoulder-exercises/classic-physique-star-chris-bumsteads-season-shoulder-and-triceps/",
-          "description": "LEGS AND SHOULDER"
+          "description": "LEGS AND SHOULDER",
         },
-      ]
+    ]
 }
