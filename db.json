@@ -2,39 +2,39 @@
     "tasks": [
         {
           "id": 1,
-          "title": "Despertar",
+          "title": "Monday",
           "url": "https://www.muscleandfitness.com/routine/workouts/chest-exercises/classic-physique-star-chris-bumsteads-season-chest-training/",
-          "lane": 1
+          "description": "TRICEP AND CHEST"
         },
         {
           "id": 2,
-          "title": "Ir a la escuela",
+          "title": "Tuesday",
           "url": "https://www.muscleandfitness.com/routine/workouts/back-exercises/classic-physique-star-chris-bumsteads-season-back-training/",
-          "lane": 2
+          "description": "BACK AND BICEP"
         },
         {
           "id": 3,
-          "title": "Comer en la escuela",
+          "title": "Wednesday",
           "url": "https://www.muscleandfitness.com/routine/workouts/shoulder-exercises/classic-physique-star-chris-bumsteads-season-shoulder-and-triceps/",
-          "lane": 3
+          "description": "LEGS AND SHOULDER"
         },
         {
           "id": 4,
-          "title": "Regresar al depa",
-          "url": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.",
-          "lane": 3
+          "title": "Thursday",
+          "url": "https://www.muscleandfitness.com/routine/workouts/chest-exercises/classic-physique-star-chris-bumsteads-season-chest-training/",
+          "description": "TRICEP AND CHEST"
         },
         {
           "id": 5,
-          "title": "Ir al gym",
-          "url": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.",
-          "lane": 3
+          "title": "Friday",
+          "url": "https://www.muscleandfitness.com/routine/workouts/back-exercises/classic-physique-star-chris-bumsteads-season-back-training/",
+          "description": "BACK AND BICEP"
         },
         {
           "id": 6,
-          "title": "Cenar en el depa",
-          "url": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.",
-          "lane": 4
+          "title": "Saturday",
+          "url": "https://www.muscleandfitness.com/routine/workouts/shoulder-exercises/classic-physique-star-chris-bumsteads-season-shoulder-and-triceps/",
+          "description": "LEGS AND SHOULDER"
         },
       ]
 }
